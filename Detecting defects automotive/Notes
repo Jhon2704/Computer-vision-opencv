@@ -1,0 +1,5 @@
+Detecting defects in an automotive part using opencv
+Project Overview: This project aims to develop a computer vision-based system capable of autonomously inspecting and identifying defects or imperfections in cast metal parts. 
+The system will use conventional artificial vision techniques with the opencv library, 
+with this type of system we are not looking for robustness but to verify the effectiveness of a traditional system, 
+as we carry out the project, conclusions will be drawn if with only opencv it is possible achieve system stability.
